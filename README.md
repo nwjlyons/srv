@@ -7,3 +7,7 @@ $ srv -h
 Usage of srv
   -p="8000": Port to run server on.
 ```
+
+## Install
+
+    go get github.com/nwjlyons/srv
