@@ -1,9 +1,9 @@
-# Show
+# srv
 
 Serve current working directory over HTTP. Like `python -m SimpleHTTPServer`.
 
 ```bash
-$ show -h
-Usage of show:
+$ srv -h
+Usage of srv
   -p="8000": Port to run server on.
 ```
